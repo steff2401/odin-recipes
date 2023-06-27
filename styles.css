@@ -2,6 +2,11 @@ body {
     font-family: Arial, Verdana, sans-serif;
 }
 
-.wok {
-    color: orange;
+li {
+    font-size: 30px;
+    margin: 10px 0;
+}
+
+h1 {
+    font-size: 45px;
 }
