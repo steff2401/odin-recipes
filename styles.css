@@ -2,7 +2,7 @@ body {
     font-family: Arial, Verdana, sans-serif;
 }
 
-li {
+.recipes-bulletpoints {
     font-size: 30px;
     margin: 10px 0;
 }
