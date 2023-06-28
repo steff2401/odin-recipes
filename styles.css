@@ -2,7 +2,38 @@ body {
     font-family: Arial, Verdana, sans-serif;
 }
 
-.recipes-bulletpoints {
+.landing-page {
+    background-color: lightskyblue;
+}
+
+.green {
+    background-color: lightgreen;
+}
+
+.waffle {
+    background-color: burlywood;
+}
+
+.wok {
+    background-color: orange;
+}
+
+.recipe h1 {
+    text-align: center;
+}
+
+.recipe img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.underscore {
+    text-decoration: underline;
+}
+
+.landing-page ul {
     font-size: 30px;
     margin: 10px 0;
 }
@@ -10,4 +41,7 @@ body {
 h1 {
     font-size: 45px;
 }
+
+
+
 
